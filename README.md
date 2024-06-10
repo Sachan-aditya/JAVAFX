@@ -16,6 +16,7 @@ The JAVA PROJECTS view allows you to manage your dependencies. More details can 
 ## Key Differences Between Swing and JavaFX
 Import Statements
 Swing uses imports from javax.swing.* and java.awt.*.
+
 JavaFX uses imports from javafx.application.*, javafx.scene.*, javafx.scene.control.*, javafx.scene.layout.*, and javafx.stage.*.
 Main Class and Entry Point
 ## Swing uses a main method to set up and display the UI components directly.
